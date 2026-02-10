@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+pythainlp
+pandas
+beautifulsoup4
+httpx
+lxml
+python-dotenv
+psycopg2-binary
+apscheduler
